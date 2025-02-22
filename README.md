@@ -18,7 +18,7 @@
 - 📚 Learning **new frontend frameworks**  
 
 ### 💡 **Ask Me About**  
-- 🖥️ **Frontend Development** (HTML, CSS, JavaScript, React)  
+- 🖥️ **Frontend Development** (HTML, CSS, JavaScript, React,Tailwindcss)  
 - 🎨 **UI/UX Design** (Figma, Design Systems, Prototyping)  
 
 ### 📩 **How to Reach Me**  
