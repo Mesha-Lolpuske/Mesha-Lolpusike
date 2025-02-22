@@ -40,8 +40,6 @@ If you have an idea or project, feel free to reach out!
 ### 🎨 **UI/UX Design**  
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
 
-### ⚡ **Other Tools & Technologies**  
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)  
 
 
 
