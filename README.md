@@ -53,6 +53,11 @@ If you have an idea or project, feel free to reach out!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesha-Lolpuske&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+## 🏆 GitHub Trophies  
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Mesha-Lolpusike&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+</p>
 
 
 
