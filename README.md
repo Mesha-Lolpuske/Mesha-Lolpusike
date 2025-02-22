@@ -19,7 +19,11 @@
 
 ### 💡 **Ask Me About**  
 - 🖥️ **Frontend Development** (HTML, CSS, JavaScript, React,Tailwindcss)  
-- 🎨 **UI/UX Design** (Figma, Design Systems, Prototyping)  
+- 🎨 **UI/UX Design** (Figma, Design Systems, Prototyping)
+
+### 🤝 **Open to Collaboration!**  
+🚀 I'm always open to **collaborative projects** and working with like-minded developers & designers.  
+If you have an idea or project, feel free to reach out!  
 
 ### 📩 **How to Reach Me**  
 📧 **Email:** [meshamacrina@gmail.com](mailto:meshamacrina@gmail.com)  
