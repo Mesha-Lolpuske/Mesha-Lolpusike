@@ -43,15 +43,15 @@ If you have an idea or project, feel free to reach out!
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mesha-Lolpusike&show_icons=true&theme=radical" alt="Mesha's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mesha-Lolpuske&show_icons=true&theme=radical" alt="Mesha's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mesha-Lolpusike&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mesha-Lolpuske&theme=radical" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesha-Lolpusike&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mesha-Lolpuske&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 
