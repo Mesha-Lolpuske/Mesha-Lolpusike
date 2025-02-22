@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A900&width=900&lines=Hey!+I'm+Mesha+Lolpusike,+a+Frontend+Developer+and+a+UI/UX+Designer." alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A900&width=900&lines=Hey!+I'm+Mesha+Lolpuske,+a+Frontend+Developer+and+a+UI/UX+Designer." alt="Typing Animation" />
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MeshaLolpuske&label=Profile+Views&color=F7A900&style=flat-square" alt="Profile Views" />
@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 
 <div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A900&center=true&width=1000&lines=👋+Hey!+I'm+Mesha+Lolpusike;A+passionate+Frontend+Developer+and+UI/UX+Designer;I+love+building+beautiful,+user-friendly,+and+interactive+web+applications!">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A900&center=true&width=1000&lines=👋+Hey!+I'm+Mesha+Lolpuske;A+passionate+Frontend+Developer+and+UI/UX+Designer;I+love+building+beautiful,+user-friendly,+and+interactive+web+applications!">
 </div>
 
 ---
