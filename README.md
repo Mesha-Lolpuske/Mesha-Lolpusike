@@ -7,7 +7,7 @@
 ## 🚀 About Me  
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A900&center=true&width=800&lines=👋+Hey!+I'm+Mesha+Lolpusike;A+passionate+Frontend+Developer+and+UI/UX+Designer;I+love+building+beautiful,+user-friendly,+and+interactive+web+apps!">
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=F7A900&center=true&width=1000&lines=👋+Hey!+I'm+Mesha+Lolpusike;A+passionate+Frontend+Developer+and+UI/UX+Designer;I+love+building+beautiful,+user-friendly,+and+interactive+web+applications!">
 </div>
 
 ---
