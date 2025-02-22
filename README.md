@@ -56,7 +56,7 @@ If you have an idea or project, feel free to reach out!
 ## 🏆 GitHub Trophies  
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Mesha-Lolpusike&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Mesha-Lolpuske&theme=radical&no-frame=true&no-bg=true&margin-w=5" alt="GitHub Trophies" />
 </p>
 
 
